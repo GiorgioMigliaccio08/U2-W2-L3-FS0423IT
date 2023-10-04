@@ -1,0 +1,81 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  height: 102 px;
+  background-color: rgb(21, 147, 219);
+  padding-bottom: 0px;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+ul li {
+  padding-right: 60px;
+}
+
+img {
+  padding: 2px;
+  margin-right: 20px;
+  border-radius: 2em;
+}
+
+.contenuto {
+  display: flex;
+  flex-direction: row;
+  margin: 0px;
+  padding: 0px;
+  height: 600px;
+  background-color: rgb(64, 64, 243);
+}
+.contenuto h1 {
+  padding: 80px;
+  font-size: 3em;
+  color: white;
+  font-weight: bold;
+  padding-bottom: 0;
+}
+.contenuto p {
+  padding: 80px;
+  padding-top: 0;
+  font-size: 1.5em;
+}
+
+.bottoni {
+  padding: 80px;
+  padding-top: 0;
+}
+
+.uno {
+  background-color: aqua;
+  color: white;
+  width: 100px;
+  padding: 10px;
+  margin-right: 20px;
+}
+
+.due {
+  background-color: rgb(255, 128, 0);
+  color: white;
+  width: 100px;
+  padding: 10px;
+  margin-right: 20px;
+}
+
+.tre {
+  background-color: rgb(60, 255, 0);
+  color: white;
+  width: 100px;
+  padding: 10px;
+  margin-right: 20px;
+}
+
+.imgdue {
+  margin: 20px;
+  padding-top: 40px;
+}
+
+.sposta {
+  padding: 70px;
+}/*# sourceMappingURL=style.css.map */
